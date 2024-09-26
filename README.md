@@ -2,13 +2,13 @@
 ```markdown
 # Projeto: CriptoDAO
 
-## Nome
+# Nome
 **CriptoDAO**
 
-## Declaração de Missão
+# Declaração de Missão
 A CriptoDAO tem como missão democratizar o acesso a investimentos em criptomoedas, promovendo educação financeira e oportunidades de investimento seguras e transparentes. Buscamos criar uma comunidade engajada que fomente a colaboração e a troca de conhecimento, permitindo que todos os membros tenham voz ativa na gestão dos recursos e na definição de estratégias de investimento.
 
-## O que a CriptoDAO vai entregar
+# O que a CriptoDAO vai entregar
 
 1. **Plataforma de Investimento Colaborativo**
    - Um sistema de votação onde os membros poderão decidir em quais criptomoedas e ativos digitais investir, utilizando smart contracts para garantir transparência e segurança nas operações.
@@ -28,13 +28,13 @@ A CriptoDAO tem como missão democratizar o acesso a investimentos em criptomoed
 6. **Parcerias Estratégicas**
    - Colaboração com outras DAOs, plataformas de exchanges e projetos de blockchain para ampliar as oportunidades de investimento e conhecimento, além de explorar sinergias que beneficiem a comunidade.
 
-## Estrutura de Governança
+# Estrutura de Governança
 
 - **Membros:** Todos os participantes que adquirirem tokens de governança da CriptoDAO.
 - **Tokens de Governança:** Cada membro terá tokens que representam seu poder de voto nas decisões da DAO. A distribuição será proporcional ao investimento realizado na plataforma.
 - **Propostas e Votações:** Membros poderão apresentar propostas, que serão votadas em períodos determinados. A proposta que obtiver a maioria dos votos será implementada.
 
-## Conclusão
+# Conclusão
 A CriptoDAO se propõe a ser um espaço inovador e inclusivo para investidores em criptomoedas, com um forte foco em educação, transparência e governança colaborativa. Ao unir recursos e conhecimentos, buscamos maximizar as oportunidades de investimento de forma segura e informada.
 ```
 
